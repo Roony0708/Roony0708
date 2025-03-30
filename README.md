@@ -1,5 +1,5 @@
 <!-- Add a Wallpaper -->
-<img src="https://drive.google.com/file/d/1RFiZ6UeDJJAg6omYwOvFiqLQ3EGYX6Ml/view?usp=sharing" alt="AI ML DL Wallpaper" width="100%">
+<img src="https://drive.google.com/uc?export=view&id=144-puHdbfYXoqmJyTOYp9SblL5fTnVCW" alt="AI ML DL Wallpaper" width="100%">
 
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
 <h3 align="center">A Passionate Data Science Enthusiast</h3>
